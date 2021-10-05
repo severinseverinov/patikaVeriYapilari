@@ -1,6 +1,6 @@
 # Patika Veri Yapıları ve Algoritmalar
 Veri yapıları ve Algoritmalar Patikasının Projeleri
-## Proje 1
+## Proje 1 Insertion Sort Projesi
 [22,27,16,2,18,6] -> İnsertion Sort
 1. Yukarıda verilen dizinin sort türüne göre aşamaları
 [2,27,16,22,18,6] -> [2,6,16,22,18,27] -> [2,6,16,18,22,27]
@@ -15,7 +15,7 @@ n.(n-1)/2 -> On^2)
 3. [2,3,4,8,7,9,5,15,6]
 4. [2,3,4,5,7,9,8,15,6]
 
-## Proje 2
+## Proje 2 Merge Sort Projesi
 
 [16,21,11,8,12,22] -> Merge Sort
 > Yukarıdak dizinin sort türüne göre aşamaları
